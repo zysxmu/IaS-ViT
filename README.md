@@ -20,3 +20,15 @@ Example: Quantize *DeiT-S* at W4/A4 precision:
 python test_quant.py --model deit_small --dataset <YOUR_DATA_DIR> --w_bit 4 --a_bit 4 --w_cw
 ```
 
+
+## ﻿Acknowledge
+```
+@inproceedings{li2023repq,
+  title={Repq-vit: Scale reparameterization for post-training quantization of vision transformers},
+  author={Li, Zhikai and Xiao, Junrui and Yang, Lianwei and Gu, Qingyi},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={17227--17236},
+  year={2023}
+}
+```
+
