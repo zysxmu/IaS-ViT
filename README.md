@@ -1,3 +1,5 @@
+## Code for our paper 'I&S-ViT: An Inclusive & Stable Method for Pushing the Limit of Post-Training ViTs Quantization'
+
 ## Evaluation
 - Evaluation by the following command:
 
@@ -20,6 +22,19 @@ Example: Quantize *DeiT-S* at W4/A4 precision:
 python test_quant.py --model deit_small --dataset <YOUR_DATA_DIR> --w_bit 4 --a_bit 4 --w_cw
 ```
 
+
+## Citation
+
+We would appreciate it if you could cite our paper if you find this code or our paper useful for your work.
+
+```
+@article{zhong2023s,
+  title={I\&s-vit: An inclusive \& stable method for pushing the limit of post-training vits quantization},
+  author={Zhong, Yunshan and Hu, Jiawei and Lin, Mingbao and Chen, Mengzhao and Ji, Rongrong},
+  journal={arXiv preprint arXiv:2311.10126},
+  year={2023}
+}
+```
 
 ## ﻿Acknowledge
 ```
