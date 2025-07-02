@@ -7,7 +7,7 @@
 python test_quant.py [--model] [--dataset] [--w_bit] [--a_bit] [--iter]
 
 optional arguments:
---model: Model architecture, the choises can be: 
+--model: Model architecture, the choices can be: 
     [vit_small, vit_base, deit_tiny, deit_small, deit_base, swin_tiny, swin_small,swin_base]
 --dataset: Path to ImageNet dataset.
 --w_bit: Bit-precision of weights, default=4.
