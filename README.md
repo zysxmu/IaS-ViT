@@ -1,4 +1,4 @@
-## Code for our paper 'I&S-ViT: An Inclusive & Stable Method for Pushing the Limit of Post-Training ViTs Quantization'
+## Code for our TPAMI2025 paper 'I&S-ViT: An Inclusive & Stable Method for Pushing the Limit of Post-Training ViTs Quantization'
 
 ## Evaluation
 - Evaluation by the following command:
@@ -31,9 +31,11 @@ We would appreciate it if you could cite our paper if you find this code or our 
 @article{zhong2023s,
   title={I\&s-vit: An inclusive \& stable method for pushing the limit of post-training vits quantization},
   author={Zhong, Yunshan and Hu, Jiawei and Lin, Mingbao and Chen, Mengzhao and Ji, Rongrong},
-  journal={arXiv preprint arXiv:2311.10126},
-  year={2023}
+  journal={IEEE Transactions on Pattern Analysis \& Machine Intelligence (TPAMI)},
+  doi={10.1109/TPAMI.2025.3610466},
+  year={2025}
 }
+
 ```
 
 ## ﻿Acknowledge
