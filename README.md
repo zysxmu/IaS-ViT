@@ -36,9 +36,9 @@ We would appreciate it if you could cite our paper if you find this code or our 
   year={2025}
 }
 
-Our paper now is a state of PrePrints. Please check [PrePrints](https://www.computer.org/csdl/journal/tp/5555/01/11164939/2a3Qfk77K7u)
-
 ```
+
+To check the state of this paper. Please see [here](https://www.computer.org/csdl/journal/tp/5555/01/11164939/2a3Qfk77K7u)
 
 ## ﻿Acknowledge
 ```
