@@ -1,4 +1,4 @@
-## Code for our TPAMI2025 paper 'I&S-ViT: An Inclusive & Stable Method for Pushing the Limit of Post-Training ViTs Quantization'
+## Code for our TPAMI2026 paper 'I&S-ViT: An Inclusive & Stable Method for Pushing the Limit of Post-Training ViTs Quantization'
 
 ## Evaluation
 - Evaluation by the following command:
